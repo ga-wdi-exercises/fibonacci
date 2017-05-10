@@ -1,4 +1,4 @@
-# Recursion
+# Fibonacci
 
 ### [Fibonacci numbers](http://en.wikipedia.org/wiki/Fibonacci_number)
 * Write an iterative (non-recursive) function that calculates the nth fibonnaci number
